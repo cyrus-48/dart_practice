@@ -1,0 +1,6 @@
+class student{
+    String name;
+}
+void main(){
+    
+}
